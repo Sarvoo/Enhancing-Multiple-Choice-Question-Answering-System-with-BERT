@@ -1,7 +1,4 @@
-# Text-Classification-for-Multiple-Choice-Questions-Using-Transformers
-
-
-Enhancing Multiple-Choice Question Answering System with BERT
+# Enhancing Multiple-Choice Question Answering System with BERT
 
 
 Implemented and Fine-Tuned a BERT-based model to significantly improve the accuracy of multiple-choice question answering systems, achieving a test set accuracy of 77.6%.
